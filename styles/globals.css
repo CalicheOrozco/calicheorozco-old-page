@@ -1,16 +1,26 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+.btn-caliche:hover {
+  background-color: #00b894 !important;
+  color: white !important;
+}
+.btn-caliche2 {
+  background-color: #00b894 !important;
+  color: white !important;
+  margin-left: 3px !important;
+}
+.btn-caliche3 {
+  background-color: #00b894 !important;
+  color: white !important;
+}
+.btn-caliche2:hover {
+  background-color: #fff !important;
+  border: 2px solid #00b894 !important;
+  color: #00b894 !important;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+footer {
+  background-color: #005947 !important;
 }
 
-* {
-  box-sizing: border-box;
+footer a:hover {
+  color: #00b894 !important;
 }
